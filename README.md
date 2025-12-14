@@ -5,3 +5,4 @@ test repository for hackathon progress tracker
 3 - Theme done
 4 - Hero done
 5 - CV done
+6 - Paper done
